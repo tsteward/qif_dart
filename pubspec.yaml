@@ -1,6 +1,6 @@
 name: qif
 description: A Dart Library for Writing QIF Files
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/tsteward/qif_dart
 author: Timothy Steward <tsteward@gmail.com>
 
