@@ -1,7 +1,7 @@
 # A Dart Library for Writing QIF Files
 
 The details of the file format can be found here:
-<https://web.archive.org/web/20100222214101/>
+<https://web.archive.org/web/20101201000000*/http://web.intuit.com/support/quicken/docs/d_qif.html>
 
 ## Usage
 
