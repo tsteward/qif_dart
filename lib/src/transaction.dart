@@ -8,5 +8,6 @@ class Transaction {
   final String category;
   final String memo;
 
-  const Transaction({this.date, this.amount, this.payee, this.category, this.memo});
+  const Transaction(
+      {this.date, this.amount, this.payee, this.category, this.memo});
 }
