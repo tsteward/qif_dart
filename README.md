@@ -1,5 +1,9 @@
 # A Dart Library for Writing QIF Files
 
+[![pub package](https://img.shields.io/pub/v/qif.svg)](https://pub.dartlang.org/packages/qif)
+
+## QIF File Format
+
 The details of the file format can be found here:
 <https://web.archive.org/web/20101201000000*/http://web.intuit.com/support/quicken/docs/d_qif.html>
 
